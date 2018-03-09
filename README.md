@@ -1,1 +1,2 @@
-# firebase_json
+# Zeit now.sh
+simple json list
